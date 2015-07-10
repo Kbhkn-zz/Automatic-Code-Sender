@@ -1,0 +1,49 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#send{
+	-fx-background-radius: 30.0;
+}
+
+#combobox{
+	 -fx-background-radius: 30.0;
+}
+
+#clear{
+	 -fx-background-radius: 30.0;
+}
+
+#update{
+-fx-background-color: linear-gradient(#207ce5,#207ce5);
+-fx-background-radius: 40.0;
+-fx-background-insets: 0.0;
+-fx-text-fill: white;
+}
+
+#stoptimer{
+	 -fx-background-radius: 30.0;
+}
+
+#timebox{
+	 -fx-background-radius: 30.0;
+}
+#autosend{
+	-fx-background-radius: 30.0;
+}
+
+#disconnect {
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30.0;
+    -fx-background-insets: 0.0;
+    -fx-text-fill: white;
+}
+#applications {
+    -fx-background-color: 
+        #3c7fb1,
+        linear-gradient(#fafdfe, #e8f5fc),
+        linear-gradient(#eaf6fd 0.0%, #d9f0fc 49.0%, #bee6fd 50.0%, #a7d9f5 100.0%);
+    -fx-background-insets: 0.0,1.0,2.0;
+    -fx-background-radius: 3.0,2.0,1.0;
+    -fx-padding: 3.0 30.0 3.0 30.0;
+    -fx-text-fill: black;
+    -fx-font-size: 14.0px;
+}

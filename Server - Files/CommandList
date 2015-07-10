@@ -1,0 +1,1 @@
+ls;pwd;tail -100f /var/log/syslog;tail -f /var/log/auth.log;find /var/log/ -name "syslog";grep 'gnome' /var/log/*;ps -ef | grep java;ps -ef;cat Server.java;lsof -i TCP:20000;nslookup google.com;netstat -an | grep 20000;netstat -an | grep ESTABLISHED;whereis java;which javac;topas;iostat;
