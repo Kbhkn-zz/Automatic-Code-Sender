@@ -32,7 +32,9 @@ Automatic Code Sender
 
 4: Loglama yapısı: 
 
-![enter image description here](https://raw.githubusercontent.com/Kbhkn/Automatic-Code-Sender/master/resim/4.png)
+![Log yapısı](https://raw.githubusercontent.com/Kbhkn/Automatic-Code-Sender/master/resim/4.png)
 
 
-Evet arkadaşlar projenin User Interface kısmı aşağı yukarı bu kadardır indirip kullandıktan sonra dahada çok şey olduğunu göreceksinizdir.
+ * Evet arkadaşlar projenin User Interface kısmı aşağı yukarı bu kadardır indirip kullandıktan sonra dahada çok şey olduğunu göreceksinizdir.
+ * Kodlardaki geliştirmelere açığım eğer daha performanslı daha kısa daha kullanışlı birşeyler keşfederseniz göndermenizden mutluluk duyarım.
+ * Kendinize iyi bakın esen kalın :)
