@@ -20,19 +20,19 @@ Automatic Code Sender
 
 1: Program ilk açıldığında: 
 
-![Program ilk çalıştırıldığı an](https://drive.google.com/file/d/0B333Pihz-VhzVWtoYUh1Qk1CaXc/view?usp=sharing)
+![Program ilk çalıştırıldığı an](https://raw.githubusercontent.com/Kbhkn/Automatic-Code-Sender/master/resim/1.png)
 
 2: Komutlar sunucudan alınıp komut gönderildiği anda:
 
-![enter image description here](https://lh6.googleusercontent.com/y8GVJNRw7nA2KRUJD63kLwi6gB0CfiBRTXCyGe6RBcjoisxKe9Cyqm7C7oQLnLBPhfOzBi9z=w1574-h653) 
+![Update sonrası](https://raw.githubusercontent.com/Kbhkn/Automatic-Code-Sender/master/resim/2.png) 
 
 3: Otomatik kod gönderme aktifleştirildiği anda:
 
-![enter image description here](https://lh3.googleusercontent.com/di5QJI7EVFfdNXE_rS97YATgH5B6C0-Xz2CPoXphMkrFyC7kqdOLl-zHRwAA8NlfC-FwDC1g=w1574-h653)
+![Auto sonrası](https://raw.githubusercontent.com/Kbhkn/Automatic-Code-Sender/master/resim/3.png)
 
 4: Loglama yapısı: 
 
-![enter image description here](https://lh3.googleusercontent.com/o7yODdeckmFNNBEJmDlMc7UR7P3bMY6WkcxwGS5j3MJ0gocwiY2RA45KVhrHjq5aZHI6CLJS=w1574-h653)
+![enter image description here](https://raw.githubusercontent.com/Kbhkn/Automatic-Code-Sender/master/resim/4.png)
 
 
 Evet arkadaşlar projenin User Interface kısmı aşağı yukarı bu kadardır indirip kullandıktan sonra dahada çok şey olduğunu göreceksinizdir.
