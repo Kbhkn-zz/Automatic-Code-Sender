@@ -20,7 +20,7 @@ Automatic Code Sender
 
 1: Program ilk açıldığında: 
 
-![Program ilk çalıştırıldığı an](https://lh4.googleusercontent.com/tRvalDW4uS8IcL7dnpezGyZjEVHlcJiaVTYgDLtQXmdLieppc2RqL_d-G06fFwoPJF17jhy8=w1574-h653)
+![Program ilk çalıştırıldığı an](https://drive.google.com/file/d/0B333Pihz-VhzVWtoYUh1Qk1CaXc/view?usp=sharing)
 
 2: Komutlar sunucudan alınıp komut gönderildiği anda:
 
