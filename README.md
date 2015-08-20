@@ -3,7 +3,7 @@ Automatic Code Sender
 
 >***Projedeki Amaç:***
 >
-> *** YKB Stajında verilen bir projedir**
+> ***Stajda verilen bir projedir**
 
 > 
  * Application Sunucularında ani bir durum çıktığında birden fazla sunucuda bulunan, logları vs. incelemek gerekiyor. Bu masaüstü uygulamasıda birden fazla sunucuya eş zamanlı komutları göndermeyi ve sonuçlarını ekrana hızlı bir biçimde ve düzenli bir şekilde dökme işlemine yarıyor.
@@ -17,6 +17,7 @@ Automatic Code Sender
  * Otomatik kod gönderme aktif olduğu zaman sadece Dİsconnect ve Stop Timer butonları aktiftir.
  * Tüm Editable özellikleri kapalıdır.
  * Elimden geldiğince kodu temiz sade anlaşılır ve kod tekrarı yapmamaya çalıştım.
+ * Kullanılan teknolojiler: Java, JavaFX, XML, CSS 
 
 1: Program ilk açıldığında: 
 
