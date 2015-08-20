@@ -1,7 +1,7 @@
 package application;
 
 //-----------------------------------------------------------------------------------------------------------------
-//YKB Staj için verilen Proje.
+//Staj için verilen bir projedir.
 //Application Sunucularında ani bir durum çıktığında birden fazla sunucuda aynı dizin altında bulunan
 //logları vs. incelemek gerekiyor. Bu masaüstü uygulamasıda birden fazla sunucuya aynı komutları eş zamanlı göndermeyi
 //ve sonuçlarını ekrana hızlı bir biçimde ve düzenli bir şekilde dökme işlemine yarıyor.
